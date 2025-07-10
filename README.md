@@ -14,17 +14,8 @@ A Flutter plugin to request root access and execute privileged commands on roote
 
 ## Installation
 
-Add `root_plus` to your `pubspec.yaml`:
-
-```yaml
-dependencies:
-  root_plus: ^1.0.0
-```
-
-Then run:
-
 ```bash
-flutter pub get
+flutter pub add root_plus
 ```
 
 ## Usage Guide
