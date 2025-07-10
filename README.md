@@ -61,7 +61,7 @@ try {
 }
 ```
 
-#### Multiple Commands:
+#### Multiple Commands (using ```\n```):
 
 ```dart
 try {
