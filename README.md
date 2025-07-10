@@ -94,7 +94,7 @@ All methods may throw `RootCommandException` with these properties:
 ## Warning
 
 ⚠️ **Use with caution!** Root access gives complete control over the device.
-- Incorrect commands can brick your device
+Incorrect commands can brick your device
 
 ## Author
 
