@@ -14,6 +14,14 @@ A Flutter plugin to request root access and execute privileged commands on roote
 
 ## Installation
 
+```
+android {
+    ndkVersion = "27.0.12077973"
+    ...
+}
+
+```
+
 ```bash
 flutter pub add root_plus
 ```
