@@ -14,7 +14,7 @@ A Flutter plugin to request root access and execute privileged commands on roote
 
 ## Installation
 
-Change NDK Version:
+Change NDK Version to 27.0.12077973 or Newer:
 ```
 android {
     ndkVersion = "27.0.12077973"
