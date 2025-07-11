@@ -7,7 +7,7 @@ A Flutter plugin to request root access and execute privileged commands on roote
 
 ## Features
 
-- Request root access (`su`)
+- Request root access
 - Execute single or multiple root commands
 - Get command output and error streams
 - Simple, clean API
