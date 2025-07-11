@@ -1,4 +1,4 @@
-# Root Plus - Flutter Plugin for Root Commands
+# Root Plus - Run Root Commands Easily
 
 ![Plugin Version](https://img.shields.io/pub/v/root_plus)
 ![Flutter Version](https://img.shields.io/badge/flutter-3.32.6-blue)
