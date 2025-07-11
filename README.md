@@ -21,7 +21,7 @@ android {
     ...
 }
 ```
-Install Package:
+Install Plugin:
 ```bash
 flutter pub add root_plus
 ```
