@@ -1,0 +1,33 @@
+name: root_plus
+description: "Root Plus, Request Root Access and Run Root Commands Easily with this Flutter Plugin."
+version: 1.0.9
+repository: "https://github.com/zaher-neon/root_plus"
+license: MIT
+topics:
+  - root
+  - shell
+  - android
+  - permissions
+  - tools
+
+
+environment:
+  sdk: ^3.8.1
+  flutter: '>=3.3.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  plugin_platform_interface: ^2.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  plugin:
+    platforms:
+      android:
+        package: com.neon.root_plus
+        pluginClass: RootPlusPlugin
