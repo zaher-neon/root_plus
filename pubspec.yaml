@@ -1,10 +1,12 @@
 name: root_plus
 description: "Root Plus, Request Root Access and Run Root Commands Easily with this Flutter Plugin."
-version: 1.0.9
+version: 1.1.0
 repository: "https://github.com/zaher-neon/root_plus"
 license: MIT
 topics:
   - root
+  - magisk
+  - kernelsu
   - shell
   - android
   - permissions
